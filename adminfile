@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "management"
+echo "staff"
+echo "workers"
+echo "students"
